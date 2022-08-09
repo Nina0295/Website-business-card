@@ -1,3 +1,3 @@
-# Visiting_-ard_Website-
+# Visiting_Website
 Сайт-визитка обо мне
 Навыки, которые прокачивала:HTML+CSS
