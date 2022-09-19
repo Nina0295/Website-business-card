@@ -1,3 +1,2 @@
-# Visiting_Website
-Сайт-визитка обо мне
-Навыки, которые прокачивала:HTML+CSS
+# Website business card
+Improvement skills:HTML+CSS
